@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Passed\bin\Debug\Passed.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Passed\bin\Debug\Passed.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Passed\bin\Debug\Passed.pdb
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Passed\obj\Debug\Passed.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Passed\obj\Debug\Passed.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Passed\obj\Debug\Passed.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Passed\obj\Debug\Passed.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Passed\obj\Debug\Passed.pdb

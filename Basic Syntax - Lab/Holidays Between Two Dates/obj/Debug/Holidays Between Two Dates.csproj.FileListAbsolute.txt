@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Holidays Between Two Dates\bin\Debug\Holidays Between Two Dates.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Holidays Between Two Dates\bin\Debug\Holidays Between Two Dates.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Holidays Between Two Dates\bin\Debug\Holidays Between Two Dates.pdb
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Holidays Between Two Dates\obj\Debug\Holidays Between Two Dates.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Holidays Between Two Dates\obj\Debug\Holidays Between Two Dates.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Holidays Between Two Dates\obj\Debug\Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Holidays Between Two Dates\obj\Debug\Holidays Between Two Dates.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Holidays Between Two Dates\obj\Debug\Holidays Between Two Dates.pdb

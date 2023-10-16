@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Sum of Odd Numbers\bin\Debug\Sum of Odd Numbers.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Sum of Odd Numbers\bin\Debug\Sum of Odd Numbers.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Sum of Odd Numbers\bin\Debug\Sum of Odd Numbers.pdb
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.pdb

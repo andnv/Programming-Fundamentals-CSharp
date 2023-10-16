@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\04. Reverse String\bin\Debug\_04.Reverse_String.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\04. Reverse String\bin\Debug\_04.Reverse_String.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\04. Reverse String\bin\Debug\_04.Reverse_String.pdb
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\04. Reverse String\obj\Debug\04. Reverse String.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\04. Reverse String\obj\Debug\04. Reverse String.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\04. Reverse String\obj\Debug\04. Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\04. Reverse String\obj\Debug\_04.Reverse_String.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\04. Reverse String\obj\Debug\_04.Reverse_String.pdb

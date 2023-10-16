@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Multiplication Table\bin\Debug\Multiplication Table.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Multiplication Table\bin\Debug\Multiplication Table.pdb
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Multiplication Table\obj\Debug\Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Multiplication Table\obj\Debug\Multiplication Table.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Multiplication Table\obj\Debug\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Multiplication Table\obj\Debug\Multiplication Table.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Multiplication Table\obj\Debug\Multiplication Table.pdb

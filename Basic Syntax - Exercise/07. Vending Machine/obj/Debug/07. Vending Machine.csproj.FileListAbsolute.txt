@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Exercise\07. Vending Machine\bin\Debug\_07.Vending_Machine.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Exercise\07. Vending Machine\bin\Debug\_07.Vending_Machine.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Exercise\07. Vending Machine\bin\Debug\_07.Vending_Machine.pdb
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Exercise\07. Vending Machine\obj\Debug\07. Vending Machine.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Exercise\07. Vending Machine\obj\Debug\07. Vending Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Exercise\07. Vending Machine\obj\Debug\07. Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Exercise\07. Vending Machine\obj\Debug\_07.Vending_Machine.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Exercise\07. Vending Machine\obj\Debug\_07.Vending_Machine.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Student_information\bin\Debug\Student_information.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Student_information\bin\Debug\Student_information.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Student_information\bin\Debug\Student_information.pdb
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Student_information\obj\Debug\Student_information.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Student_information\obj\Debug\Student_information.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Student_information\obj\Debug\Student_information.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Student_information\obj\Debug\Student_information.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Student_information\obj\Debug\Student_information.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Even Number\bin\Debug\Even Number.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Even Number\bin\Debug\Even Number.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Even Number\bin\Debug\Even Number.pdb
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Even Number\obj\Debug\Even Number.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Even Number\obj\Debug\Even Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Even Number\obj\Debug\Even Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Even Number\obj\Debug\Even Number.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Even Number\obj\Debug\Even Number.pdb

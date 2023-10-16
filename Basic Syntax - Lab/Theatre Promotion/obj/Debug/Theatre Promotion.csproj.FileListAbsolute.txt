@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Theatre Promotion\bin\Debug\Theatre Promotion.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Theatre Promotion\bin\Debug\Theatre Promotion.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Theatre Promotion\bin\Debug\Theatre Promotion.pdb
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Theatre Promotion\obj\Debug\Theatre Promotion.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Theatre Promotion\obj\Debug\Theatre Promotion.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Theatre Promotion\obj\Debug\Theatre Promotion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Theatre Promotion\obj\Debug\Theatre Promotion.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Theatre Promotion\obj\Debug\Theatre Promotion.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Month Printer\obj\Debug\Month Printer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Month Printer\obj\Debug\Month Printer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Month Printer\obj\Debug\Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Month Printer\bin\Debug\Month Printer.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Month Printer\bin\Debug\Month Printer.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Month Printer\bin\Debug\Month Printer.pdb
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Month Printer\obj\Debug\Month Printer.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - Lab\Month Printer\obj\Debug\Month Printer.pdb

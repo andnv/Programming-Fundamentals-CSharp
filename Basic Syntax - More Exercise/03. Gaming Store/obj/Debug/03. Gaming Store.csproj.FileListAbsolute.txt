@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\03. Gaming Store\bin\Debug\_03.Gaming_Store.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\03. Gaming Store\bin\Debug\_03.Gaming_Store.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\03. Gaming Store\bin\Debug\_03.Gaming_Store.pdb
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\03. Gaming Store\obj\Debug\03. Gaming Store.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\03. Gaming Store\obj\Debug\03. Gaming Store.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\03. Gaming Store\obj\Debug\03. Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\03. Gaming Store\obj\Debug\_03.Gaming_Store.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\03. Gaming Store\obj\Debug\_03.Gaming_Store.pdb

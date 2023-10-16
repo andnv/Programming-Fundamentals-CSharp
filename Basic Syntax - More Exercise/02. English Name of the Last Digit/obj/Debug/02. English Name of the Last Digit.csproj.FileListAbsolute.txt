@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\02. English Name of the Last Digit\bin\Debug\_02.English_Name_of_the_Last_Digit.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\02. English Name of the Last Digit\bin\Debug\_02.English_Name_of_the_Last_Digit.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\02. English Name of the Last Digit\bin\Debug\_02.English_Name_of_the_Last_Digit.pdb
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\02. English Name of the Last Digit\obj\Debug\02. English Name of the Last Digit.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\02. English Name of the Last Digit\obj\Debug\02. English Name of the Last Digit.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\02. English Name of the Last Digit\obj\Debug\02. English Name of the Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\02. English Name of the Last Digit\obj\Debug\_02.English_Name_of_the_Last_Digit.exe
+C:\Users\User\source\repos\C# Fundamentals\Basic Syntax - More Exercise\02. English Name of the Last Digit\obj\Debug\_02.English_Name_of_the_Last_Digit.pdb

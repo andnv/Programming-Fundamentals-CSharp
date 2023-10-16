@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.exe
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.deps.json
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.runtimeconfig.json
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.runtimeconfig.dev.json
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.dll
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.pdb
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.AssemblyInfo.cs
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.dll
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\refint\05. Multiplication Sign.dll
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.pdb
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.genruntimeconfig.cache
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\ref\05. Multiplication Sign.dll

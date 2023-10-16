@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.exe
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.deps.json
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.runtimeconfig.json
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.runtimeconfig.dev.json
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.dll
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.pdb
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.AssemblyInfo.cs
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.dll
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\refint\04. Tribonacci Sequence.dll
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.pdb
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.genruntimeconfig.cache
+C:\Users\User\source\repos\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\ref\04. Tribonacci Sequence.dll

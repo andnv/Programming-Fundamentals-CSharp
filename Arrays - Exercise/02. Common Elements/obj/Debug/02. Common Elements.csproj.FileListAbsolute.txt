@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\_02.Common_Elements.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\_02.Common_Elements.exe
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\_02.Common_Elements.pdb
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\02. Common Elements.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\02. Common Elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\_02.Common_Elements.exe
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\_02.Common_Elements.pdb

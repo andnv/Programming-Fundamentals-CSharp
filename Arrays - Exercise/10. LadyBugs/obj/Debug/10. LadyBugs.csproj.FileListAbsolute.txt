@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\10. LadyBugs\bin\Debug\_10.LadyBugs.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\10. LadyBugs\bin\Debug\_10.LadyBugs.exe
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\10. LadyBugs\bin\Debug\_10.LadyBugs.pdb
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\10. LadyBugs\obj\Debug\10. LadyBugs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\10. LadyBugs\obj\Debug\10. LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\10. LadyBugs\obj\Debug\_10.LadyBugs.exe
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\10. LadyBugs\obj\Debug\_10.LadyBugs.pdb

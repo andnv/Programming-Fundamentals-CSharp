@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.exe
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.deps.json
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.runtimeconfig.json
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.dll
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.pdb
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.AssemblyInfo.cs
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.dll
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net5.0\refint\02. Pascal Triangle.dll
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.pdb
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.genruntimeconfig.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net5.0\ref\02. Pascal Triangle.dll

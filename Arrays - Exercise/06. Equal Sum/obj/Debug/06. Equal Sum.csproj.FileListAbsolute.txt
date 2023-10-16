@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\_06.Equal_Sum.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\_06.Equal_Sum.exe
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\_06.Equal_Sum.pdb
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\06. Equal Sum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\06. Equal Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\06. Equal Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\_06.Equal_Sum.exe
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\_06.Equal_Sum.pdb

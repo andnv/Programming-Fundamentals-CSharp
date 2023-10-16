@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.exe
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.deps.json
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.runtimeconfig.json
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.runtimeconfig.dev.json
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.dll
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.pdb
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.dll
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\refint\01. Encrypt, Sort and Print Array.dll
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.pdb
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.genruntimeconfig.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\ref\01. Encrypt, Sort and Print Array.dll

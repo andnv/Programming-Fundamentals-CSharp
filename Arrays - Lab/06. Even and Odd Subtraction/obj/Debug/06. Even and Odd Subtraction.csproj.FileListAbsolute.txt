@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\_06.Even_and_Odd_Subtraction.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\_06.Even_and_Odd_Subtraction.exe
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\_06.Even_and_Odd_Subtraction.pdb
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\06. Even and Odd Subtraction.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\06. Even and Odd Subtraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\_06.Even_and_Odd_Subtraction.exe
+C:\Users\User\source\repos\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\_06.Even_and_Odd_Subtraction.pdb

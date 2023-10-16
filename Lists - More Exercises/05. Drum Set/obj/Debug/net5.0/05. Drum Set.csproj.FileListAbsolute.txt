@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\bin\Debug\net5.0\05. Drum Set.exe
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\bin\Debug\net5.0\05. Drum Set.deps.json
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\bin\Debug\net5.0\05. Drum Set.runtimeconfig.json
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\bin\Debug\net5.0\05. Drum Set.runtimeconfig.dev.json
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\bin\Debug\net5.0\05. Drum Set.dll
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\bin\Debug\net5.0\05. Drum Set.pdb
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\obj\Debug\net5.0\05. Drum Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\obj\Debug\net5.0\05. Drum Set.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\obj\Debug\net5.0\05. Drum Set.AssemblyInfo.cs
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\obj\Debug\net5.0\05. Drum Set.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\obj\Debug\net5.0\05. Drum Set.dll
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\obj\Debug\net5.0\refint\05. Drum Set.dll
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\obj\Debug\net5.0\05. Drum Set.pdb
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\obj\Debug\net5.0\05. Drum Set.genruntimeconfig.cache
+C:\Users\User\source\repos\C# Fundamentals\Lists - More Exercises\05. Drum Set\obj\Debug\net5.0\ref\05. Drum Set.dll

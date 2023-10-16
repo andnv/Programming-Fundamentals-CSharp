@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.exe
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.deps.json
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.dll
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.dll
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\refint\01. Sum Adjacent Equal Numbers.dll
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache
+C:\Users\User\source\repos\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\ref\01. Sum Adjacent Equal Numbers.dll

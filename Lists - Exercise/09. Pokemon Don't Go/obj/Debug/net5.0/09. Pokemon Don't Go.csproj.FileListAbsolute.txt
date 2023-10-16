@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.exe
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.deps.json
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.runtimeconfig.json
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.runtimeconfig.dev.json
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.dll
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.pdb
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.dll
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\refint\09. Pokemon Don't Go.dll
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.pdb
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.genruntimeconfig.cache
+C:\Users\User\source\repos\C# Fundamentals\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\ref\09. Pokemon Don't Go.dll

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\_02.From_Left_to_The_Right.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\_02.From_Left_to_The_Right.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\_02.From_Left_to_The_Right.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\02. From Left to The Right.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\02. From Left to The Right.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\02. From Left to The Right.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\_02.From_Left_to_The_Right.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\_02.From_Left_to_The_Right.pdb

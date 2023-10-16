@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\_03.Elevator.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\_03.Elevator.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\_03.Elevator.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\03. Elevator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\03. Elevator.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\03. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\_03.Elevator.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\_03.Elevator.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\_09.Spice_Must_Flow.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\_09.Spice_Must_Flow.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\_09.Spice_Must_Flow.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\09. Spice Must Flow.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\09. Spice Must Flow.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\09. Spice Must Flow.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\_09.Spice_Must_Flow.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\_09.Spice_Must_Flow.pdb

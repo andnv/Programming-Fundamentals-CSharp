@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\_08.Beer_Kegs.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\_08.Beer_Kegs.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\_08.Beer_Kegs.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\08. Beer Kegs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\08. Beer Kegs.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\08. Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\_08.Beer_Kegs.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\_08.Beer_Kegs.pdb

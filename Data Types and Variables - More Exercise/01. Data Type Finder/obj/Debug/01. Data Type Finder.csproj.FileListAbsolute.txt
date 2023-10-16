@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\_01.Data_Type_Finder.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\_01.Data_Type_Finder.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\_01.Data_Type_Finder.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\01. Data Type Finder.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\01. Data Type Finder.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\01. Data Type Finder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\_01.Data_Type_Finder.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\_01.Data_Type_Finder.pdb

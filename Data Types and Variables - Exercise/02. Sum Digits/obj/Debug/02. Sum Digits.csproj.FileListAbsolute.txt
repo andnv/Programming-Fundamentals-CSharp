@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\_02.Sum_Digits.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\_02.Sum_Digits.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\_02.Sum_Digits.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\02. Sum Digits.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\02. Sum Digits.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\02. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\_02.Sum_Digits.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\_02.Sum_Digits.pdb

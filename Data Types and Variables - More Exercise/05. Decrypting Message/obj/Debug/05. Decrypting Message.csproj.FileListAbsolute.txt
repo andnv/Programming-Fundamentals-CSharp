@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\_05.Decrypting_Message.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\_05.Decrypting_Message.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\_05.Decrypting_Message.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\05. Decrypting Message.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\05. Decrypting Message.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\05. Decrypting Message.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\_05.Decrypting_Message.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\_05.Decrypting_Message.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring_PrimeChecker\bin\Debug\_04.Refactoring_PrimeChecker.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring_PrimeChecker\bin\Debug\_04.Refactoring_PrimeChecker.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring_PrimeChecker\bin\Debug\_04.Refactoring_PrimeChecker.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring_PrimeChecker\obj\Debug\04. Refactoring_PrimeChecker.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring_PrimeChecker\obj\Debug\04. Refactoring_PrimeChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring_PrimeChecker\obj\Debug\04. Refactoring_PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring_PrimeChecker\obj\Debug\_04.Refactoring_PrimeChecker.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring_PrimeChecker\obj\Debug\_04.Refactoring_PrimeChecker.pdb

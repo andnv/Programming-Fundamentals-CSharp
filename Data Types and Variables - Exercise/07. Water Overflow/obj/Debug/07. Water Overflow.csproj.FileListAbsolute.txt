@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\_07.Water_Overflow.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\_07.Water_Overflow.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\_07.Water_Overflow.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\07. Water Overflow.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\07. Water Overflow.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\07. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\_07.Water_Overflow.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\_07.Water_Overflow.pdb

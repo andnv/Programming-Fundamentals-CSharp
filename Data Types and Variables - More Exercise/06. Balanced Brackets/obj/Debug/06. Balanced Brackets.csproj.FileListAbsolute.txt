@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\_06.Balanced_Brackets.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\_06.Balanced_Brackets.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\_06.Balanced_Brackets.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\06. Balanced Brackets.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\06. Balanced Brackets.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\_06.Balanced_Brackets.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\_06.Balanced_Brackets.pdb

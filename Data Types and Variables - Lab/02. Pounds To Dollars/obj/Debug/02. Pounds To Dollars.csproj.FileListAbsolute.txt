@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\02. Pounds To Dollars\bin\Debug\_02.Pounds_To_Dollars.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\02. Pounds To Dollars\bin\Debug\_02.Pounds_To_Dollars.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\02. Pounds To Dollars\bin\Debug\_02.Pounds_To_Dollars.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\02. Pounds To Dollars\obj\Debug\02. Pounds To Dollars.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\02. Pounds To Dollars\obj\Debug\02. Pounds To Dollars.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\02. Pounds To Dollars\obj\Debug\02. Pounds To Dollars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\02. Pounds To Dollars\obj\Debug\_02.Pounds_To_Dollars.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\02. Pounds To Dollars\obj\Debug\_02.Pounds_To_Dollars.pdb

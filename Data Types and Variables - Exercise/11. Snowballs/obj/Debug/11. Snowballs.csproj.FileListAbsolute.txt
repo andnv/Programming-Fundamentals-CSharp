@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\_11.Snowballs.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\_11.Snowballs.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\_11.Snowballs.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\11. Snowballs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\11. Snowballs.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\11. Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\_11.Snowballs.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\_11.Snowballs.pdb

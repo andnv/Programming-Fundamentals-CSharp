@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\_04.Centuries_to_Minutes.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\_04.Centuries_to_Minutes.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\_04.Centuries_to_Minutes.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\04. Centuries to Minutes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\04. Centuries to Minutes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\_04.Centuries_to_Minutes.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\_04.Centuries_to_Minutes.pdb

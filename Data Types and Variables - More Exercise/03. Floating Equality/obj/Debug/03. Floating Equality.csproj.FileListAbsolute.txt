@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\_03.Floating_Equality.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\_03.Floating_Equality.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\_03.Floating_Equality.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\03. Floating Equality.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\03. Floating Equality.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\03. Floating Equality.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\_03.Floating_Equality.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\_03.Floating_Equality.pdb

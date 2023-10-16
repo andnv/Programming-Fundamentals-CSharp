@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\_06.Triples_of_Latin_Letters.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\_06.Triples_of_Latin_Letters.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\_06.Triples_of_Latin_Letters.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\06. Triples of Latin Letters.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\06. Triples of Latin Letters.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\_06.Triples_of_Latin_Letters.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\_06.Triples_of_Latin_Letters.pdb

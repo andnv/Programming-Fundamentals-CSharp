@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\_05.Print_Part_Of_ASCII_Table.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\_05.Print_Part_Of_ASCII_Table.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\_05.Print_Part_Of_ASCII_Table.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\05. Print Part Of ASCII Table.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\05. Print Part Of ASCII Table.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\_05.Print_Part_Of_ASCII_Table.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\_05.Print_Part_Of_ASCII_Table.pdb

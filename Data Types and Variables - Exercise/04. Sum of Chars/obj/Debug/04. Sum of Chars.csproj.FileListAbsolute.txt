@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\_04.Sum_of_Chars.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\_04.Sum_of_Chars.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\_04.Sum_of_Chars.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\04. Sum of Chars.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\04. Sum of Chars.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\04. Sum of Chars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\_04.Sum_of_Chars.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\_04.Sum_of_Chars.pdb

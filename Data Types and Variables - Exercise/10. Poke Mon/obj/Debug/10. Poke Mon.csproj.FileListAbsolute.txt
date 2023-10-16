@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\_10.Poke_Mon.exe.config
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\_10.Poke_Mon.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\_10.Poke_Mon.pdb
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\10. Poke Mon.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\10. Poke Mon.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\10. Poke Mon.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\_10.Poke_Mon.exe
+C:\Users\User\source\repos\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\_10.Poke_Mon.pdb

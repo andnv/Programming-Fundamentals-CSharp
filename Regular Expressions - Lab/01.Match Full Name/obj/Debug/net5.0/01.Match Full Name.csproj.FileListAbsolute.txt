@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\bin\Debug\net5.0\01.Match Full Name.exe
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\bin\Debug\net5.0\01.Match Full Name.deps.json
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\bin\Debug\net5.0\01.Match Full Name.runtimeconfig.json
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\bin\Debug\net5.0\01.Match Full Name.runtimeconfig.dev.json
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\bin\Debug\net5.0\01.Match Full Name.dll
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\bin\Debug\net5.0\01.Match Full Name.pdb
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\obj\Debug\net5.0\01.Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\obj\Debug\net5.0\01.Match Full Name.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\obj\Debug\net5.0\01.Match Full Name.AssemblyInfo.cs
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\obj\Debug\net5.0\01.Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\obj\Debug\net5.0\01.Match Full Name.dll
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\obj\Debug\net5.0\refint\01.Match Full Name.dll
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\obj\Debug\net5.0\01.Match Full Name.pdb
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\obj\Debug\net5.0\01.Match Full Name.genruntimeconfig.cache
+C:\Users\User\source\repos\C# Fundamentals\Regular Expressions - Lab\01.Match Full Name\obj\Debug\net5.0\ref\01.Match Full Name.dll
